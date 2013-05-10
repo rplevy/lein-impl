@@ -1,7 +1,7 @@
 lein-impl
 =========
 
-A lein plugin verify consistency of internal and external API structure.
+A lein plugin to verify API structure based on ns metadata.
 
 # Motivation
 
